@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-16)
+
+
+### Bug Fixes
+
+* Refactor CSS indentation for consistency and readability. ([5bb1f1a](https://github.com/heartmel/frontend3-week5-activity/commit/5bb1f1a38a531df3a9da98a229f2db237511f3d2))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 
